@@ -1,7 +1,7 @@
 # utils/config.py
 
 # Your NewsAPI key
-NEWSAPI_KEY = "51450329b3cc4eb784f9b4837c8431c7"
+NEWSAPI_KEY = "#######"
 
 # Sectors and keywords
 SECTOR_KEYWORDS = {
